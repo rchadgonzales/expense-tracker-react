@@ -68,3 +68,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+#
+
+#
+
+# React Hooks and Context API (Expense Tracker)
+
+This is the project from the [YouTube](https://www.youtube.com/watch?v=XuFDcZABiDQ&t=1740s). It includes the react hooks (useState, useContext, useReducer) and the context API.
+
+## Usage
+
+### Install dependencies
+
+```
+npm install
+```
+
+### Run React dev server (http://localhost:3000)
+
+```
+npm start
+```
+
+### To build for production
+
+```
+npm run build
+```
